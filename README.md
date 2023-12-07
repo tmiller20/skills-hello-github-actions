@@ -55,7 +55,7 @@ To get you started, we used actions to go ahead and made a branch and pull reque
      pull-requests: write
    ```
 1. To commit your changes, click **Commit new file**.
-1. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one.
+1. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one. !!!
 
 <footer>
 
